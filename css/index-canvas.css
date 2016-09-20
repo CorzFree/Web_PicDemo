@@ -1,0 +1,26 @@
+body {
+	height: 600px;
+}
+
+.main {
+	background-color: lightgoldenrodyellow;
+	width: 98%;
+	height: 98%;
+	margin: 0 auto;
+}
+
+canvas {
+	position: absolute;
+}
+
+.common {
+	border: 1px solid red;
+}
+
+#canvas2 {
+	left: 151px;
+}
+
+#canvas3 {
+	left: 302px;
+}
